@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import SideNav from '@/app/ui/dashboard/sidenav';
 import { Metadata } from 'next';
  
